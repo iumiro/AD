@@ -6,3 +6,4 @@ Easy grab and work with
 - AMSIBypass.txt
 - Find-WMILocalAdminAccess.ps1
 - Find-PSRemotingLocalAdminAccess.ps1
+- PowerUp.ps1
