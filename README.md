@@ -14,3 +14,4 @@ Easy grab and work with </br>
 - Invoke-PowerShellTcp.ps1
 #### 3. Lateral Movement
 - Invoke-Mimikatz.ps1
+- Invoke-MimikatzEx.ps1
