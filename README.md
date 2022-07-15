@@ -8,3 +8,4 @@ Easy grab and work with
 - Find-PSRemotingLocalAdminAccess.ps1
 - PowerUp.ps1
 - Powercat.ps1
+- Invoke-PowerShellTcp.ps1
