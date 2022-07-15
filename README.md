@@ -7,3 +7,4 @@ Easy grab and work with
 - Find-WMILocalAdminAccess.ps1
 - Find-PSRemotingLocalAdminAccess.ps1
 - PowerUp.ps1
+- Powercat.ps1
