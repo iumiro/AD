@@ -19,3 +19,4 @@ Easy grab and work with </br>
 - tgsrepcrack.py
 - 10k-worst-pass.txt
 - ASREPRoast-master.zip
+- PowerView_dev.ps1
