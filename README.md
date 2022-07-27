@@ -15,3 +15,6 @@ Easy grab and work with </br>
 #### 3. Lateral Movement
 - Invoke-Mimikatz.ps1
 - Invoke-MimikatzEx.ps1
+#### 4. Kerberoasting
+- tgsrepcrack.py
+- 10k-worst-pass.txt
