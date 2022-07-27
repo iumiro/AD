@@ -20,3 +20,10 @@ Easy grab and work with </br>
 - 10k-worst-pass.txt
 - ASREPRoast-master.zip
 - PowerView_dev.ps1
+- Rubeus.exe
+- kekeo.zip
+- kekeo_old.zip
+#### 5. SQL
+- PowerUpSQL
+
+
